@@ -1,0 +1,7 @@
+pandas==2.1.4 
+numpy==1.26.3
+beautifulsoup4==4.12.2
+requests-html==0.10.0 
+urllib3==1.26.18 
+matplotlib==3.8.2
+seaborn==0.12.2
